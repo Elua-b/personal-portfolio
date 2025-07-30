@@ -4,9 +4,9 @@ import { GeistMono } from 'geist/font/mono'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'v0 App',
+  title: 'Eloi dev',
   description: 'Created with v0',
-  generator: 'v0.dev',
+  generator: 'Eloi',
 }
 
 export default function RootLayout({

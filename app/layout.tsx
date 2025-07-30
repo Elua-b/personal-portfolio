@@ -5,7 +5,7 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'Eloi dev',
-  description: 'Created with v0',
+  description: 'Created with Eloi',
   generator: 'Eloi',
 }
 
